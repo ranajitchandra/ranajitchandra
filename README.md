@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/s2qnxvV/github-banner.png" width="100%" alt="Banner"/>
+  <img src="https://i.ibb.co.com/HSZJ3dC/8469936.jpg" width="100%" alt="Banner"/>
 </p>
 
 ---
