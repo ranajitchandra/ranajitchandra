@@ -4,15 +4,31 @@
 </h1>
 
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co.com/HSZJ3dC/8469936.jpg" width="100%" alt="Banner"/>
-</p>
+![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEyiMrTLzjrew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1666909601860?e=1757548800&v=beta&t=Rna7qkOx0KnTF9C50K5vNPJ4kWug2iqcF9pYFInDZ6o)
+
 
 ---
 
-## 🚀 About Me
-💡 Passionate full-stack developer skilled in modern frontend and backend technologies, creating dynamic, efficient, and user-friendly web applications.  
-🎯 Dedicated to writing clean, maintainable code with attention to detail.  
+
+
+
+### Hi there 👋, my name is Ranajit Chandra Das
+#### Web Developer
+
+
+
+
+### 🚀 About Me
+💡 Passionate full-stack developer skilled in modern frontend and backend technologies, creating dynamic,
+   efficient, and user-friendly web applications.
+   I have hands-on experience with modern frontend technologies including HTML5, CSS3,
+   Bootstrap, Tailwind CSS, JavaScript, React.js, and Next.js. I also work with backend tools and
+   technologies like Node.js, Express.js, PHP, Python (Django), and databases such as MongoDB,
+   MySQL, and SQLite3. I enjoy building interactive user interfaces and i am constantly learning
+   new tools to improve my development skills.
+
+🎯 Dedicated to writing clean, maintainable code with attention to detail.
+
 📚 Constantly learning and exploring new tools to enhance my skills.  
 
 ---
@@ -37,24 +53,28 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronojit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronojit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronojit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ranajitchandra&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitchandra&layout=compact&&langs_count=8"/>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/ronojit"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ronojit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ranajitchandra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mr-rono"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ranajitchandradas3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## ✨ Fun Fact
 💻 Coding is not just my profession, it’s my passion — and yes, I sometimes dream in JavaScript! 😄
+
+
+
+
+
+
