@@ -37,7 +37,7 @@
 
 ### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,firebase,nextjs" height="45" />
 </p>
 
 ### **Backend**
@@ -64,7 +64,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/ranajitchandra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mr-rono"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ranajit-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ranajitchandradas3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
